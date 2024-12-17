@@ -1,0 +1,36 @@
+banks:
+  - name: "Chase Bank"
+    home_loan_range:
+      min: 4.5
+      max: 6.5
+    car_loan_range:
+      min: 5.0
+      max: 7.5
+    personal_loan_range:
+      min: 7.0
+      max: 12.0
+    min_credit_score: 620
+
+  - name: "Bank of America"
+    home_loan_range:
+      min: 4.75
+      max: 6.75
+    car_loan_range:
+      min: 5.25
+      max: 7.75
+    personal_loan_range:
+      min: 7.5
+      max: 13.0
+    min_credit_score: 640
+
+  - name: "Wells Fargo"
+    home_loan_range:
+      min: 4.25
+      max: 6.25
+    car_loan_range:
+      min: 4.75
+      max: 7.25
+    personal_loan_range:
+      min: 6.75
+      max: 11.5
+    min_credit_score: 600
